@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\game c ++\game_star\game_star\main.cpp(285,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\game c ++\game_star\game_star\main.cpp(286,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\game c ++\game_star\game_star\main.cpp(324,26): warning C4018: '<': signed/unsigned mismatch
+D:\game c ++\game_star\game_star\main.cpp(339,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\game c ++\game_star\game_star\main.cpp(340,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\game c ++\game_star\game_star\main.cpp(371,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\game c ++\game_star\game_star\main.cpp(372,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\game c ++\game_star\game_star\main.cpp(385,26): warning C4018: '<': signed/unsigned mismatch
+D:\game c ++\game_star\game_star\main.cpp(396,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\game c ++\game_star\game_star\main.cpp(397,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  game_star.vcxproj -> D:\game c ++\game_star\Debug\game_star.exe
